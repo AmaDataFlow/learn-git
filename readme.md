@@ -1,4 +1,6 @@
 # Learn about git and github
 
-# What is it git and git hub
+# What is git and git hub
+```javascript
+console.log("hello world!")
 

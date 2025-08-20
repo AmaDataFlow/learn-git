@@ -2,5 +2,5 @@
 
 # What is git and git hub
 ```javascript
-console.log('hello world!')
+console.log('hello world!');
 
